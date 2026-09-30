@@ -1,0 +1,6 @@
+<html>
+<body>
+  <h1>Hello Friends</h1>
+  <p>Welcome to HTML</p>
+</body>
+</html>
